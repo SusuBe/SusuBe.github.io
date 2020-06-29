@@ -7,3 +7,8 @@ Harry Potter ist ein Zauberer und er kann ganz viele tolle Tricks und er kämpf 
 * mutig
 * schlau
 * treu
+
+Wie Harry Potter einmal sagte
+
+> blabla bla
+> bla blabla bla
