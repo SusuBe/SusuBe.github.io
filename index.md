@@ -12,3 +12,5 @@ Wie Harry Potter einmal sagte
 
 > blabla bla
 > bla blabla bla
+
+<img src="https://images.pexels.com/photos/1531486/pexels-photo-1531486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"/>
